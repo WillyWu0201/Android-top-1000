@@ -4,7 +4,7 @@ List of Android Top 1000 Libraries
 A curated list of awesome Android Top 1000 libraries.
 
 ## Mantainers
-[![iamdaiyuan](https://avatars0.githubusercontent.com/u/8256?v=3&s=96) iamdaiyuan](https://github.com/iamdaiyuan)  
+[iamdaiyuan](https://github.com/iamdaiyuan)  
 
 ## Top 1000	
 Name | Demo
